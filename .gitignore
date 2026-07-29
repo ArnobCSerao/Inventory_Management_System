@@ -1,11 +1,18 @@
 # Compiled executable
-Inventory_Management_System.exe
+*.exe
+*.out
 
 # Generated inventory data
 inventory.txt
+
+# Temporary files
+*.tmp
 
 # VS Code settings
 .vscode/
 
 # Object files
 *.o
+
+# Build files
+build/
