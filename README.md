@@ -1,5 +1,6 @@
 # Inventory Management System v2.0
 
+
 A console-based Inventory Management System written in C.
 
 This project demonstrates:
